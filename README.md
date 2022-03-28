@@ -1,2 +1,2 @@
-# zzugis.cn
-Official website for Zhengzhou University,GIS Learner.
+# mapcoding.cn
+Official website for GIS Learner/China. see http://mapcoding.cn
